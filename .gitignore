@@ -1,0 +1,4 @@
+/build/*
+.cache
+*.nsys-rep
+*.sqlite
